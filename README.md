@@ -239,7 +239,7 @@ The dashboard helps answer key business questions, including:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Retail-Sales-Analytics.git
+git clone https://github.com/Castilloshaji/Retail-Sales-Analytics.git
 ```
 
 ---
