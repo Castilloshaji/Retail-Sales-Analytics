@@ -83,7 +83,6 @@ Retail-Sales-Analytics/
 │   ├── product_analytics.png
 │   └── regional_shipping.png
 │
-├── reports/
 │
 ├── requirements.txt
 │
